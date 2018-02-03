@@ -9,6 +9,8 @@ name = "pypi"
 
 jupyter = "*"
 octave-kernel = "*"
+numpy = "*"
+scipy = "*"
 
 
 [dev-packages]
